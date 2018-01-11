@@ -5,3 +5,5 @@ change 3
 add function
 
 subtract function
+
+multiply function
